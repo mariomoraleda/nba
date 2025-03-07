@@ -23,7 +23,7 @@
     
     <section id="lebron">
         <h2>LeBron James</h2>
-        <img src="images/lebron.jpg" alt="LeBron James">
+        <img src="images/lebron.png.wepb" alt="LeBron James">
         <p>LeBron James es uno de los jugadores de baloncesto más destacados de todos los tiempos. Nació el 30 de diciembre de 1984 en Akron, Ohio. Desde joven mostró un
 
 A lo largo de su carrera, ha sido conocido no solo por su increíble habilidad en la cancha, sino también por su capacidad para influir en el juego, su liderazgo y su inteligencia baloncestística. LeBron es un jugador versátil, capaz de desempeñarse en varias posiciones, y es reconocido
